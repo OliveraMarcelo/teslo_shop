@@ -16,3 +16,4 @@ Este es un proyecto para trabajar con:
 # Importante
 Recuerden leer y seguir la guía para montar el backend localmente.
 
+# teslo_shop
